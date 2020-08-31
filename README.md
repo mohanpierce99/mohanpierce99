@@ -17,9 +17,10 @@
 
 - 💬 Ask me about **React WebRTC NodeJS Graphql**
 
-- Freelanced for building [CareerWise](http://www.careerwise.in/)
-
 - 📫 How to reach me **itsmohanpierce@gmail.com**
+
+- 🌎 Freelanced for building [CareerWise](http://www.careerwise.in/)
+
 
 - Fun fact :⚡ Won 12/16 Hackathons participated
 
