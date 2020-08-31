@@ -11,8 +11,9 @@
 
 - 📝 I regulary write articles on [https://medium.com/@itsmohanpierce](https://medium.com/@itsmohanpierce)
 
-- 🗣️ Active member of Facebook Developer circles, Ramco nuthouse and ChennaiJS
-   Gave my first conference talk on [A deep dive into Javascript & its ecosystem](https://www.meetup.com/thenuthouse/events/251879530/)
+- 🗣️ Active member of Facebook Developer circles, Ramco nuthouse and ChennaiJS 
+
+- 🎤 Gave my first conference talk on [A deep dive into Javascript & its ecosystem](https://www.meetup.com/thenuthouse/events/251879530/)
 
 - 💬 Ask me about **React WebRTC NodeJS Graphql**
 
