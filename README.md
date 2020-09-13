@@ -28,7 +28,7 @@
 
 🚀 CLI-React portfolio builder - Takes user details as JSON in and builds a beautiful React portfolio. Checkout the [demo](https://res.cloudinary.com/dqmbs2chk/video/upload/v1599990241/reactfolio_fsehwp.mp4)
 
-Sends and receives data through  ultrasonic waves using the web audio API in pure Javascript. Checkout the [demo](https://res.cloudinary.com/dqmbs2chk/video/upload/v1598886336/demo_obb9eg.mp4) video.
+🚀 Sends and receives data through  ultrasonic waves using the web audio API in pure Javascript. Checkout the [demo](https://res.cloudinary.com/dqmbs2chk/video/upload/v1598886336/demo_obb9eg.mp4) video.
 
 https://github.com/KuroLabs/sonicsensor
 
